@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 20vw;
+    height: 20vh;
+}
+img{
+    width: 45vw;
+    height: 40vh;
+}
+body{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
